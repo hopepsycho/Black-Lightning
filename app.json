@@ -1,7 +1,7 @@
 {
-    "name": "Black Lightning - UserBot",
-    "description": "An advanced Telethon Userbot, from @keinshin",
-    "logo": "https://telegra.ph/file/d8d194c18562472a7c1f1.jpg",
+    "name": "kunjappan - UserBot",
+    "description": "An advanced Telethon Userbot, from @hopepsycho",
+    "logo": "https://telegra.ph/file/cfc422395273551a0b148.jpg",
     "keywords": [
      "telegram",
      "userbot",
@@ -9,9 +9,9 @@
      "modular",
      "productivity"
     ],
-    "repository": "https://github.com/KeinShin/Black-Lightning",
-    "website": "https://github.com/KeinShin/Black-Lightning",
-    "success_url": "https://t.me/blacklightningot",
+    "repository": "https://github.com/hopepsycho/Black-userbot",
+    "website": "https://github.com/hopepsycho/Black-userbot",
+    "success_url": "https://t.me/king_of_psycho",
     "stack": "container",
     "env": {
      "APP_ID": {
@@ -38,7 +38,7 @@
      },
       "LIGHTNING_ALV_IMG": {
       "description": "To add another Alive pic, Leave blank for default. ",
-      "value": "",
+      "value": "https://telegra.ph/file/cfc422395273551a0b148.jpg",
       "required": false
      }, 
       "HEROKU_API_KEY": {
