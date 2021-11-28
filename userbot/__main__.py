@@ -15,7 +15,7 @@ from userbot.utils import load_assistant, load_module, start_assistant
 TELE = Var.PRIVATE_GROUP_ID
 BOTNAME = Var.TG_BOT_USER_NAME_BF_HER
 LOAD_MYBOT = Var.LOAD_MYBOT
-sed = logging.getLogger("Black Lightning")
+sed = logging.getLogger("kunjappan")
 
 async def add_bot(bot_token):
     await bot.start(bot_token)
@@ -79,7 +79,7 @@ if Config.ENABLE_ASSISTANTBOT == "ENABLE":
              load_assistant(shortname.replace(".py", ""))
             except Exception:
                 pass
-    sed.info("Black Lightning Has Been Deployed Successfully !")
+    sed.info("Kunjappan Has Been Deployed Successfully !")
     sed.info("╔════❰ Ⲃⲟⲧ Ⲓⲛϝⲟʀⲙⲁⲧⲓⲟⲛ ❱═❍⊱❁۪۪")
     sed.info("║┣⪼ Ⲟⲱⲛⲉʀ - ʙʟᴀᴄᴋ-ʟɪɢʜᴛɴɪɴɢ ᴜꜱᴇʀ ")
     sed.info("║┣⪼ Ⲋⲧⲁⲧυⲋ - Ⲟⲛⳑⲓⲛⲉ")
@@ -88,12 +88,12 @@ if Config.ENABLE_ASSISTANTBOT == "ENABLE":
     sed.info("║┣⪼ Ⲃⲟⲧ Ⲣⲓⲛⳋ - 0.006")
     sed.info("║┣⪼ Ⲣⲩⲧⲏⲟⲛ - 3.9.2")
     sed.info("║┣⪼ Ⲧⲉⳑⲉⲧⲏⲟⲛ - 1.17.0 ")
-    sed.info("║┣⪼ ✨𝐁𝐥𝐚𝐜𝐤-𝐋𝐢𝐠𝐡𝐭𝐧𝐢𝐧𝐠 𝐔𝐬𝐞𝐫𝐛𝐨𝐭✨")
+    sed.info("║┣⪼ ✨𝐊𝐔𝐍𝐉𝐀𝐏𝐏𝐀𝐍 𝐔𝐬𝐞𝐫𝐛𝐨𝐭✨")
     sed.info("║╰━━━━━━━━━━━━━━━➣ ")
     sed.info("╚══════════════════❍⊱❁۪۪")
 else:
-    sed.info("Black Lightning Has Been Installed Sucessfully !")
-    sed.info("You Can Visit @lightning_support For Any Support Or Doubts")
+    sed.info("kunjappan Has Been Installed Sucessfully !")
+    sed.info("You Can Visit @kunjappansupport For Any Support Or Doubts")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
