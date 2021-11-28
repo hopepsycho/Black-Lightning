@@ -5,18 +5,18 @@
 #chala jaa bhosdike 
 import os
 from userbot import ALIVE_NAME 
-MASTER = str(ALIVE_NAME) if ALIVE_NAME else "LIGHTNING"
+MASTER = str(ALIVE_NAME) if ALIVE_NAME else "PSYCHO"
 NAME = os.environ.get("BOT_NICK_NAME")
-BOT =  = str(NAME) if NAME else "BLACK LIGHTNING"
+BOT =  = str(NAME) if NAME else "KUNJAPPAN"
 #op for keinshin
 
-Keinshin = "[KEINSHIN](https://t.me/keinshin)"
-OP = "[BLACK LIGHTNING](https://github.com/KeinShin/Black-Lightning)"
-OKAY = "[SUPPORT GROUP](https://t.me/LIGHTINGSUPPORT)"
+Psycho_sir = "[PSYCHO](https://t.me/king_of_psycho)"
+OP = "[PSYCHO](https://github.com/hopepsycho/Black-userbot)"
+OKAY = "[SUPPORT GROUP](https://t.me/kunjappansupport)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
-ALIVE = "BLACK LIGHTNING BOT IS ON 🔥 FIRE 🔥" #make by LEGENDX22 for black lightning
-USERBOT = " HELLO MASTER MY NAME IS BLACK LIGHTNING BOT I AM A BEST USERBOT 💝"
+ALIVE = "KUNJAPPAN BOT IS ON 🔥 FIRE 🔥" #make by PSYCHO for Kunjappan
+USERBOT = " HELLO MASTER MY NAME IS KUNJAPPAN BOT I AM A BEST USERBOT 💝"
 EMOJI = "⚡"
 #yrr isko apne bot me aply krne se pehle mere se pooch lena ok
 #aur aage add kruga abhi busy okay 🤔
