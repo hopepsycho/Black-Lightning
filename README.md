@@ -1,42 +1,42 @@
 
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">KeinShin 🇮🇳</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/king_of_psycho">psycho 🇮🇳</a></b></h2>
 <br>
-<p align="center"><a href="https://t.me/lightning_support_group"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
+<p align="center"><a href="https://t.me/lightning_support_group"><img src="https://telegra.ph/file/cfc422395273551a0b148.jpg"></a></p> 
 </p>
 <h1>BLACK LIGHTNING</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
 <br>
 <br>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/KeinShin/Black-Lightning)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning#copyright--license)
-[![Stars](https://img.shields.io/github/stars/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/stargazers)
-[![Forks](https://img.shields.io/github/forks/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/network/members)
-[![Issues Open](https://img.shields.io/github/issues/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/issues)
-[![Issues Closed](https://img.shields.io/github/issues-closed/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/issues?q=is:closed)
-[![PR Open](https://img.shields.io/github/issues-pr/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/pulls?q=is:closed)
-![Repo Size](https://img.shields.io/github/repo-size/KeinShin/Black-Lightning?style=flat-square)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/hopepsycho/Black-userbot)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/hopepsycho/Black-userbot#copyright--license)
+[![Stars](https://img.shields.io/github/stars/hopepsycho/Black-userbot?&style=flat-square)]( https://github.com/hopepsycho/Black-userbot/stargazers)
+[![Forks](https://img.shields.io/github/forks/hopepsycho/Black-userbot?&style=flat-square)]( https://github.com/hopepsycho/Black-userbot/network/members)
+[![Issues Open](https://img.shields.io/github/issues/hopepsycho/Black-userbot?&style=flat-square)]( https://github.com/hopepsycho/Black-userbot/issues)
+[![Issues Closed](https://img.shields.io/github/issues-closed/hopepsycho/Black-userbot?&style=flat-square)]( https://github.com/hopepsycho/Black-userbot/issues?q=is:closed)
+[![PR Open](https://img.shields.io/github/issues-pr/hopepsycho/Black-userbot?&style=flat-square)]( https://github.com/hopepsycho/Black-userbot/pulls)
+[![PR Closed](https://img.shields.io/github/issues-pr-close/hopepsycho/Black-userbot?&style=flat-square)]( https://github.com/hopepsycho/Black-userbot/pulls?q=is:closed)
+![Repo Size](https://img.shields.io/github/repo-size/hopepsycho/Black-userbot?style=flat-square)
 <br>
 
 
 # Credits 
 ## This is A Remix Bot Of Many UserBot.
-* [DARKCOBRA](https://github.com/DARK-COBRA/DARKCOBRA)
-* [FridayUserBot](https://github.com/DevsExpo/FridayUserbot)
-* [Jarvisuserbot](https://github.com/Jarvis-Works/JarvisUserbot)
-* [Javes 2.0](https://github.com/Javes786/javes-2.0)
-* [TeleBot](https://github.com/xditya/TeleBot)
-* [Uniborg](https://github.com/SpEcHiDe/UniBorg)
-* [CipherX](https://t.me/CipherXBot)
-* [Hellboi-Danish](https://t.me/Hellboi-Danish)
+* [DARKCOBRA](https://github.com/hopepsycho/king_of_psycho)
+* [FridayUserBot](https://github.com/hopepsycho/kunjappan2.0)
+* [Jarvisuserbot](https://github.com/hopepsycho/kunjappan3.0)
+* [Javes 2.0](https://github.com/hopepsycho/Black-userbot)
+* [TeleBot](https://github.com/hopepsycho)
+* [Uniborg](https://github.com/hopepsycho)
+* [Psycho](https://t.me/king_of_psycho)
+* [Kunjppan](https://t.me/king_of_psycho)
 
 # Special thanks
-to [Aditya](https://github.com/Paramatin-OP) for maintaining the repository
+to [Aditya](https://github.com/hopepsycho) for maintaining the repository
 
 # Support
-<a href="https://t.me/Black_lightning_Channel"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/lightning_support_group"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/kunjappansupportez"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/kunjappansupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Total Commands = CMDS Are More Than 470 :D
 # About ɮʟǟƈᏦ ʟɨɢɦƭռɨռɢ
@@ -93,7 +93,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 # Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KeinShin/Black-Lightning)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hopepsycho/Black-userbot)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKeinShin%2FBlack-Lightning&envs=ALIVE_NAME%2CAPP_ID%2CAPI_HASH%2CSTRING_SESSION%2CCOMBINED_GROUP_ID%2CTG_BOT_TOKEN_BF_HER%2CTG_BOT_USER_NAME_BF_HER&ALIVE_NAMEDesc=Ur+Telegram+username+with+starts+with+@&APP_IDDesc=Get+this+value+from+my.telegram.org%21+Please+do+not+steal&API_HASHDesc=Get+this+value+from+my.telegram.org%21+Please+do+not+steal&STRING_SESSIONDesc=Get+this+value+by+running+python3+telesetup.py+locally+or+https%3A%2F%2Freplit.com%2F%40Paramatin%2FLightning-Repl%23main.py+online.&COMBINED_GROUP_IDDesc=This+is+all+in+one+group+id.+just+add+%40Missrose_bot+to+your+private+group+and+do+%2Fid&TG_BOT_TOKEN_BF_HERDesc=Needed+for+inline+buttons+maker.+Make+a+bot+at+http%3A%2F%2Ftelegram.dog%2FBotFather+and+get+the+token+of+your+bot.+Get+it+else+.help+won%27t+work.&TG_BOT_USER_NAME_BF_HERDesc=Needed+for+inline+buttons+maker.+Make+a+bot+at+http%3A%2F%2Ftelegram.dog%2FBotFather+and+get+the+username+of+your+bot.+Get+it+else+.help+won%27t+work)
 
@@ -106,7 +106,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github/KeinShin/Black-Lightning.git
+git clone https://github/hopepsycho/Black-userbot.git
 cd Black Lightning 
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
