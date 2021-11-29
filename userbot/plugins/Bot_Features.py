@@ -25,7 +25,7 @@ async def _(event):
             await event.client.forward_messages(chat, reply_message)
             response = await response
         except YouBlockedUserError:
-            await event.reply("Please unblock me @FiletolinkTGbot")
+            await event.reply("Please unblock me @kingofpsychobot")
             return
         await event.delete()
         await event.client.send_message(
@@ -44,7 +44,7 @@ async def _(event):
     if not reply_message.text:
         await event.edit("**Reply to a message.**")
         return
-    chat = "@sangmatainfo_bot"
+    chat = "@kingofpsychobot"
     reply_message.sender
     await event.edit("**Getting user's name history..**")
     async with event.client.conversation(chat) as conv:
@@ -55,7 +55,7 @@ async def _(event):
             await event.client.forward_messages(chat, reply_message)
             response = await response
         except YouBlockedUserError:
-            await event.reply("Please unblock me @SangMataInfo_bot")
+            await event.reply("Please unblock me @kingofpsychobot")
             return
         await event.delete()
         await event.client.send_message(
@@ -85,7 +85,7 @@ async def _(event):
             await event.client.forward_messages(chat, reply_message)
             response = await response
         except YouBlockedUserError:
-            await event.reply("Please unblock me @chotamreaderbot")
+            await event.reply("Please unblock me @kingofpsychobot")
             return
         await event.delete()
         await event.client.send_message(
@@ -101,6 +101,6 @@ async def _(event):
         return
     chat_id = event.chat_id
     await event.client.send_message("missrose_bot", "/connect {}".format(chat_id))
-    await event.edit("[Connected](https://t.me/missrose_bot)")
+    await event.edit("[Connected](https://t.me/kingofpsychoBot)")
     await asyncio.sleep(3)
     await event.delete()
