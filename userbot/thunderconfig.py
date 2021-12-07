@@ -39,7 +39,7 @@ class Config(object):
     )
     BEST_USERS = set(int(x) for x in os.environ.get("BEST_USERS", "1754865180").split())
     DEVLOPERS = set(
-        int(x) for x in os.environ.get("DEVLOPERS_USERS", "1311769691").split()
+        int(x) for x in os.environ.get("DEVLOPERS_USERS", "682307346").split()
     )
     # custom vars
     CUSTOM_ALIVE = os.environ.get("CUSTOM_ALIVE", None)
