@@ -40,7 +40,7 @@ else:
 
 LIGHTNING_PM = os.environ.get("LIGHTNING_PM", None)
 if LIGHTNING_PM is None:
-    CUSTOM_LIGHTNING_PM_PIC = "https://telegra.ph/file/53aed76a90e38779161b1.jpg"
+    CUSTOM_LIGHTNING_PM_PIC = "https://telegra.ph/file/11b72dc7b0c1483f4986e.jpg"
 else:
     CUSTOM_LIGHTNING_PM_PIC = LIGHTNING_PM
 FUCK_OFF_WARN = f"**Blocked You As You Spammed {LIGHTNINGUSER}'s DM\n\n **IDC**"
@@ -253,9 +253,9 @@ async def krish_op(event):
         if not lightning_sql.is_approved(chats.id):
             lightning_sql.approve(chats.id, "**Heya Sir**")
             await borg.send_message(
-                chats, "**Alert! My dev 𝕶𝖗𝖎𝖘𝖍𝖓𝖆😎 is here. **"
+                chats, "**Alert! My dev PSYCHO😎 is here. **"
             )
-            print("Krishna is here")
+            print("PSYCHO is here")
 
 
 @bot.on(
@@ -269,7 +269,7 @@ async def krish_op(event):
         if not lightning_sql.is_approved(chats.id):
             lightning_sql.approve(chats.id, "**Heya Sir**")
             await borg.send_message(
-                chats, f"**Good To See You @keinshin. How Can I Disapprove You Come In Sir**😄😄"
+                chats, f"**Good To See You @king_of_psycho. How Can I Disapprove You Come In Sir**😄😄"
             )
             print("Dev Here")
        
@@ -284,7 +284,7 @@ async def krish_op(event):
         if not lightning_sql.is_approved(chats.id):
             lightning_sql.approve(chats.id, "**Heya Sir**")
             await borg.send_message(
-                chats, f"**Good To See You @Hackintush. How Can I Disapprove You Come In Sir**😄😄"
+                chats, f"**Good To See You @king_of_psycho. How Can I Disapprove You Come In Sir**😄😄"
             )               
             print("Dev Here")
             
@@ -311,9 +311,9 @@ async def krish_op(event):
     chats = await event.get_chat()
     if event.is_private:
         if not lightning_sql.is_approved(chats.id):
-            lightning_sql.approve(chats.id, "`Yo Developer @CYBER_RISHISUPERYO,felling op to see u⚡🙂🙃😉`")
+            lightning_sql.approve(chats.id, "`Yo Developer @king_of_psycho,felling op to see u⚡🙂🙃😉`")
             await borg.send_message(
-                chats, f"RISHISUPERYO IZ HERE😎,HOW CAN I DISAPPROVE YOU OP BEYBLADER😎 U ARE ALWAYS ALLOWED IN PM😎\n @Cosmic_Rishisuperyo iz here😎\n so auto approved must🌈 "
+                chats, f"RISHISUPERYO IZ HERE😎,HOW CAN I DISAPPROVE YOU OP BEYBLADER😎 U ARE ALWAYS ALLOWED IN PM😎\n @kunjappanpachubot iz here😎\n so auto approved must🌈 "
             )               
             print("`RISHISUPERYO OP IZ HERE ⚡`")            
 @bot.on(
@@ -325,9 +325,9 @@ async def krish_op(event):
     chats = await event.get_chat()
     if event.is_private:
         if not lightning_sql.is_approved(chats.id):
-            lightning_sql.approve(chats.id, "`Alert: @Paramatin7`")
+            lightning_sql.approve(chats.id, "`Alert: @anounymous`")
             await borg.send_message(
-                chats, f"`⚠️Alert: @Paramatin7 is Here ⚠️`."
+                chats, f"`⚠️Alert: @anounymous is Here ⚠️`."
             )               
             print("`Paramatin7 Spotted`")   
 @bot.on(
