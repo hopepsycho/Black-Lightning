@@ -3,7 +3,7 @@ import asyncio
 from uniborg.util import lightning_cmd
 from userbot import ALIVE_NAME
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Black Lightning"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Black 𝔲𝔰𝔢𝔯𝔟𝔬𝔱"
 
 
 @borg.on(lightning_cmd(pattern=r"police"))
@@ -31,7 +31,7 @@ async def _(event):
         "🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵",
         "🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴",
         "🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵",
-        "[Lightning ](https://t.me/lightning_support_group) **Police Service Here**",
+        "[Lightning ](https://t.me/kunjappansupport) **Police Service Here**",
     ]
 
     for i in animation_ttl:
