@@ -12,5 +12,5 @@ from userbot import CMD_HELP
 async def hapy(event):
 
 
-     a="ㅤㅤ  █\n         █\n        █\n       █\n      █░░░░░░█\n                        █\n                        █\n                       █\n                     █\n\n`⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️\nBLACK LIGHTNING IS OP⚡️\n_______________________________`"
+     a="ㅤㅤ  █\n         █\n        █\n       █\n      █░░░░░░█\n                        █\n                        █\n                       █\n                     █\n\n`⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️\nBLACK USER BOT IS OP⚡️\n_______________________________`"
      await event.edit(a)
