@@ -13,12 +13,12 @@ from userbot.utils import admin_cmd as cipherx_on_cmd
 from userbot import ALIVE_NAME, CMD_HELP
 
 DEL_TIME_OUT = 60
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "вℓα¢к ℓιgнтηιηg"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "вℓα¢к 𝒖𝒔𝒆𝒓𝒃𝒐𝒕"
 
 @cipherx.on(cipherx_on_cmd(pattern="cipher"))
 @cipherx.on(sudo_cmd(pattern="cipher", allow_sudo=True))
 async def _(event):
-    sed = await edit_or_reply(event, "`sᴛᴀʀᴛɪɴɢ ᴀᴜᴛᴏɴᴀᴍᴇ. ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...`")
+    sed = await edit_or_reply(event, "`ᴋᴜɴᴊᴀᴘᴘᴀɴ ɪs ᴀʟɪᴠᴇ ᴏɴʟɪɴᴇ...`")
     if event.fwd_from:
         return
     while True:
@@ -52,7 +52,7 @@ async def _(event):
             await asyncio.sleep(ex.seconds)
 
         await asyncio.sleep(DEL_TIME_OUT)
-    await sed.edit("**вℓα¢к ℓιgнтηιηg ᴀᴜᴛᴏ ɴᴀᴍᴇ ʜᴀs ʙᴇᴇɴ sᴛᴀʀᴛᴇᴅ**")
+    await sed.edit("**вℓα¢к 𝒖𝒔𝒆𝒓𝒃𝒐𝒕 ᴀʟɪᴠᴇ ᴏɴ ɪs ᴏɴʟɪɴᴇ**")
 
 
 CMD_HELP.update(
