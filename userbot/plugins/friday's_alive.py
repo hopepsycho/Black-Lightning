@@ -9,7 +9,7 @@ from userbot.utils import lightning_cmd, sudo_cmd
 
 FRI_IMAGE = os.environ.get("FRI_IMAGE", None)
 if FRI_IMAGE is None:
-    FRI_IMG = "https://telegra.ph/file/00f60d92a8e02db2a9877.mp4"
+    FRI_IMG = "https://telegra.ph/file/11b72dc7b0c1483f4986e.jpg"
 else:
     FRI_IMG = FRI_IMAGE
 
@@ -46,7 +46,7 @@ def get_readable_time(seconds: int) -> str:
 uptime = get_readable_time((time.time() - Lastupdate))
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Unknown"
 
-pm_caption = "➥ **Black Lightning IS:** `ONLINE`\n\n"
+pm_caption = "➥ **Black userbot IS:** `ONLINE`\n\n"
 pm_caption += "➥ **SYSTEMS STATS**\n"
 pm_caption += "➥ **Telethon Version:** `1.21.0` \n"
 pm_caption += "➥ **Python:** `3.9.0` \n"
@@ -56,11 +56,11 @@ pm_caption += "➥ **Current Branch** : `master`\n"
 pm_caption += f"➥ **Version** : `{currentversion}`\n"
 pm_caption += f"➥ **My Boss** : {DEFAULTUSER} \n"
 pm_caption += "➥ **Heroku Database** : `AWS - Working Properly`\n\n"
-pm_caption += "➥ **License** : [GNU General Public License v3.0](https://github.com/KeinShin/Black-Lightning/master/LICENSE)\n"
-pm_caption += "➥ **Copyright** : By [Raiden-Devs](GitHub.com/Raiden-Devs)\n"
+pm_caption += "➥ **License** : [GNU General Public License v3.0](https://github.com/hopepsycho/Black-userbot/master/LICENSE)\n"
+pm_caption += "➥ **Copyright** : By [Raiden-Devs](GitHub.com/hopepsycho)\n"
 pm_caption += "➥ **Check Stats By Doing** `.status`. \n\n"
 pm_caption += (
-    "[🇮🇳 Deploy Black Lightning 🇮🇳](Github.com/KeinShin/Black-Lightning)"
+    "[🇮🇳 Deploy Black userbot 🇮🇳](Github.com/hopepsycho/Black-userbot)"
 )
 
 
