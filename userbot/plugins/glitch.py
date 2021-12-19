@@ -27,7 +27,7 @@ async def glitch(event):
         await event.edit("`Reply To Image`")
         return
     fmt = "gif"
-    pathsn = f"./Anmol-dot283/@blacklightningot.{fmt}"
+    pathsn = f"./Anmol-dot283/@kunjappansupport.{fmt}"
     glitch_imgs = glitcher.glitch_image(photolove, 2, gif=True, color_offset=True)
     glitch_imgs[0].save(
         pathsn,
