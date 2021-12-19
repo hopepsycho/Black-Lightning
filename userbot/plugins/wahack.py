@@ -24,7 +24,7 @@ async def _(event):
         useri_d = event.sender_id
         if useri_d == 1311769691:
             await event.edit(
-                "This is My Master\nI can't hack my master's Account\n**How dare you trying to hack my master's account nigger!**\n\n__Your account has been hacked! Pay 69$ to my master__ @keinshin __to release your account__"
+                "This is My Master\nI can't hack my master's Account\n**How dare you trying to hack my master's account nigger!**\n\n__Your account has been hacked! Pay 69$ to my master__ @king_of_psycho __to release your account__"
             )
         else:
             await event.edit("Hacking.. Your Whatsapp")
