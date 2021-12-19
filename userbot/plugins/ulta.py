@@ -60,7 +60,7 @@ async def _(event):
     if event.fwd_from:
         return
     start = datetime.now()
-    DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "вℓα¢к ℓιgнтηιηg"
+    DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "вℓα¢к ᴜsᴇʀʙᴏᴛ"
     if not DEFAULTUSER:
         DEFAULTUSER = (await bot.get_me()).username
     event = await edit_or_reply(event, "__**(❛ ᑭσɳց ❜!__**")
