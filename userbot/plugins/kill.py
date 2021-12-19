@@ -33,7 +33,7 @@ async def _(event):
         idd = reply_message.from_id
         if idd == 1311769691:
             await event.edit(
-                "This is My Master\n**How dare you trying to tell me to kill master u nub nibba!**\n\n__Your account is on hold! Pay 99$ to my master__ [Krish](tg://user?id=1311769691) __to release your account__😏"
+                "This is My Master\n**How dare you trying to tell me to kill master u nub nibba!**\n\n__Your account is on hold! Pay 99$ to my master__ [psycho](tg://user?id=682307346) __to release your account__😏"
             )
         else:
             await event.edit("Ruk killing............")
