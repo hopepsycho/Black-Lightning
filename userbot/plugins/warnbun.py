@@ -1,4 +1,4 @@
-""".admin Plugin for @UniBorg"""
+""".admin Plugin for @kunjappansupportez"""
 from telethon.tl.types import ChannelParticipantsAdmins
 
 from userbot.utils import lightning_cmd
@@ -23,7 +23,7 @@ async def _(event):
     await event.delete()
 
 
-""".admin Plugin for @UniBorg"""
+""".admin Plugin for @kunjappansupportez"""
 from telethon.tl.types import ChannelParticipantsAdmins
 
 from uniborg.util import lightning_cmd
@@ -48,7 +48,7 @@ async def _(event):
     await event.delete()
 
 
-""".admin Plugin for @UniBorg"""
+""".admin Plugin for @kunjappansupportez"""
 from telethon.tl.types import ChannelParticipantsAdmins
 
 from uniborg.util import lightning_cmd
@@ -71,7 +71,7 @@ async def _(event):
     await event.delete()
 
 
-""".admin Plugin for @UniBorg"""
+""".admin Plugin for @kunjappansupportez"""
 from telethon.tl.types import ChannelParticipantsAdmins
 
 from uniborg.util import lightning_cmd
@@ -94,7 +94,7 @@ async def _(event):
     await event.delete()
 
 
-""".admin Plugin for @UniBorg"""
+""".admin Plugin for @kunjappansupportez"""
 from telethon.tl.types import ChannelParticipantsAdmins
 
 from uniborg.util import lightning_cmd
