@@ -67,7 +67,7 @@ def register(**args):
             try:
                 await func(check)
 
-            # Thanks to @kandnub for this HACK.
+            # Thanks to @hopepsycho for this HACK.
             # Raise StopPropagation to Raise StopPropagation
             # This needed for AFK to working properly
 
@@ -86,7 +86,7 @@ def register(**args):
                     date = strftime("%Y-%m-%d %H:%M:%S", gmtime())
 
                     text = "**USERBOT ERROR REPORT**\n"
-                    link = "[PaperplaneExtended Support Chat](https://t.me/PaperplaneExtendedSupport)"
+                    link = "[group](https://t.me/kunjappanSupport)"
                     text += "If you want to, you can report it"
                     text += f"- just forward this message to {link}.\n"
                     text += "Nothing is logged except the fact of error and date\n"
