@@ -16,20 +16,20 @@ from userbot.utils import lightning_cmd, edit_or_reply, sudo_cmd
 
 ALIVE_PIC = os.environ.get("ALIVE_PIC", None)
 if ALIVE_PIC is None:
-    PM_iMG = "https://telegra.ph/file/c37f186aa05cc07ab7b89.mp4"
+    PM_iMG = "https://telegra.ph/file/11b72dc7b0c1483f4986e.jpg"
 else:
     PM_iMG = ALIVE_PIC
 
 
 HELL_PIC = os.environ.get("HELL_PIC", None)
 if HELL_PIC is None:
-    HELL_IMG = "https://telegra.ph/file/c37f186aa05cc07ab7b89.mp4"
+    HELL_IMG = "https://telegra.ph/file/11b72dc7b0c1483f4986e.jpg"
 else:
     HELL_IMG = HELL_PIC
 
 CAT_IMGE = os.environ.get("CAT_IMGE", None)
 if CAT_IMGE is None:
-    CAT_IMG = "https://telegra.ph/file/cfc422395273551a0b148.jpg"
+    CAT_IMG = "https://telegra.ph/file/11b72dc7b0c1483f4986e.jpg"
 else:
     CAT_IMG = CAT_IMGE
 
@@ -45,7 +45,7 @@ ALIVE_PHOTTO = os.environ.get("ALIVE_PHOTTO", None)
 
 # Thanks to Sipak bro and Raganork..
 # animation Idea by @king_of_psycho (Sipakisking)
-# Made by @king_of_psycho ....and thanks to @Crackexy for the logos...
+# Made by @king_of_psycho ....and thanks to @kingofpaychobot for the logos...
 # Kang with credits else gay...
 # alive.py for DC(DARK COBRA)
 
@@ -102,7 +102,7 @@ async def amireallyalive(salive):
         )
         pm_caption += "𝘓𝘐𝘚𝘌𝘕𝘊𝘌                  : [AGPL-3.0  ʟɪᴄᴇɴꜱᴇ](https://jenaatul8.wixsite.com/hellboi-atul)\n"
         pm_caption += "𝘾𝙊𝙋𝙔𝙍𝙄𝙂𝙃𝙏 𝘽𝙔            : [ 𝖐𝖚𝖓𝖏𝖆𝖕𝖕𝖆𝖓 ](https://t.me/kunjappansupportez)\n"
-        pm_caption += "[┏┓━┏┓━━━━┏┓━┏┓━━━━━\n ┃┃━┃┃━━━━┃┃━┃┃━━━━━\n ┃┗━┛┃┏━━┓┃┃━┃┃━┏━━┓\n ┃┏━┓┃┃┏┓┃┃┃━┃┃━┃┏┓┃ \n ┃┃━┃┃┃┃━┫┃┗┓┃┗┓┃┗┛┃ \n ┗┛━┗┛┗━━┛┗━┛┗━┛┗━━┛](https://t.me/blacklightningot)"
+        pm_caption += "[┏┓━┏┓━━━━┏┓━┏┓━━━━━\n ┃┃━┃┃━━━━┃┃━┃┃━━━━━\n ┃┗━┛┃┏━━┓┃┃━┃┃━┏━━┓\n ┃┏━┓┃┃┏┓┃┃┃━┃┃━┃┏┓┃ \n ┃┃━┃┃┃┃━┫┃┗┓┃┗┓┃┗┛┃ \n ┗┛━┗┛┗━━┛┗━┛┗━┛┗━━┛](https://t.me/kunjappansupport)"
         await salive.get_chat()
         await salive.delete()
         """ For .allive command, check if the bot is running.  """
@@ -131,7 +131,7 @@ async def amireallyalive(salive):
             "𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿           : [ᴊᴏɪɴ](https://t.me/kunjappansupport)\n"
             "𝘓𝘐𝘚𝘌𝘕𝘊𝘌                  : [AGPL-3.0  ʟɪᴄᴇɴꜱᴇ](https://jenaatul8.wixsite.com/hellboi-atul)\n"
             "𝘾𝙊𝙋𝙔𝙍𝙄𝙂𝙃𝙏 𝘽𝙔            : [ 𝖐𝖚𝖓𝖏𝖆𝖕𝖕𝖆𝖓 ](https://t.me/kingofpsychoBot)\n"
-            "[ ┏┓━┏┓━━━━┏┓━┏┓━━━━━\n ┃┃━┃┃━━━━┃┃━┃┃━━━━━\n ┃┗━┛┃┏━━┓┃┃━┃┃━┏━━┓\n ┃┏━┓┃┃┏┓┃┃┃━┃┃━┃┏┓┃ \n ┃┃━┃┃┃┃━┫┃┗┓┃┗┓┃┗┛┃ \n ┗┛━┗┛┗━━┛┗━┛┗━┛┗━━┛](https://t.me/blacklightningot)",
+            "[ ┏┓━┏┓━━━━┏┓━┏┓━━━━━\n ┃┃━┃┃━━━━┃┃━┃┃━━━━━\n ┃┗━┛┃┏━━┓┃┃━┃┃━┏━━┓\n ┃┏━┓┃┃┏┓┃┃┃━┃┃━┃┏┓┃ \n ┃┃━┃┃┃┃━┫┃┗┓┃┗┓┃┗┛┃ \n ┗┛━┗┛┗━━┛┗━┛┗━┛┗━━┛](https://t.me/kunjappansupport)",
             link_preview=False,
         )
         await salive.delete()
@@ -167,7 +167,7 @@ pm_caption += "⚠️CHANNEL⚠️   : [ᴊᴏɪɴ](https://t.me/kunjappansuppor
 
 pm_caption += "🔥CREATOR🔥    : [Nub Here](https://t.me/king_of_psycho)\n\n"
 
-pm_caption += "    [✨REPO✨](https://github.com/hopepsycho/Black-userbot) 🔹 [📜License📜](https://github.com/KeinShin/Black-Lightning/blob/master/LICENSE)"
+pm_caption += "    [✨REPO✨](https://github.com/hopepsycho/Black-userbot) 🔹 [📜License📜](https://github.com/hopepsycho/Black-userbot/blob/master/LICENSE)"
 
 
 @borg.on(lightning_cmd(outgoing=True, pattern="halive$"))
@@ -287,7 +287,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "вℓα¢к ℓιgнтηιηg"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "вℓα¢к ᴜsᴇʀʙᴏᴛ"
 
 
 CMD_HELP.update(
