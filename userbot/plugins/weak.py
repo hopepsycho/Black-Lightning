@@ -8,7 +8,7 @@ from userbot import CMD_HELP
 from userbot.utils import lightning_cmd
 
 
-bot = "@MadBoy_Rotomgram2_Bot"
+bot = "@kunjappanpachubot"
 
 
 @borg.on(lightning_cmd("weak ?(.*)"))
@@ -26,7 +26,7 @@ async def _(event):
               await borg.send_message(event.chat_id, audio.text)
               await event.delete()
           except YouBlockedUserError:
-              await event.edit("Error: unblock @inhumanDexBot and retry!")
+              await event.edit("Error: unblock @kunjappanpachubot and retry!")
   elif "@" in sysarg:
       async with borg.conversation(bot) as conv:
           try:
@@ -37,7 +37,7 @@ async def _(event):
               await borg.send_message(event.chat_id, audio.text)
               await event.delete()
           except YouBlockedUserError:
-              await event.edit("Error: unblock @MadBoy_Rotomgram2_Bot and try again!")
+              await event.edit("Error: unblock @kunjappanpachubot and try again!")
   elif "" in sysarg:
       async with borg.conversation(bot) as conv:
           try:
@@ -48,7 +48,7 @@ async def _(event):
               await borg.send_message(event.chat_id, audio.text)
               await event.delete()
           except YouBlockedUserError:
-              await event.edit("Error: unblock @MadBoy_Rotomgram2_Bot `and try again!")
+              await event.edit("Error: unblock @kunjappanpachubot `and try again!")
 
 CMD_HELP.update({
    "weak":"this plugin is info of pokemon weakness type .weak fire or .weak any types"})
