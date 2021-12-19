@@ -9,7 +9,7 @@ from userbot.utils import lightning_cmd
 import asyncio
 from .. import ALIVE_NAME, CMD_HELP
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Black Lightning"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Black USER BOT"
 DEFAULTUSERBIO = "404: No bio found!"
 if Var.PRIVATE_GROUP_ID is None:
     BOTLOG = False
@@ -36,7 +36,7 @@ async def _(event):
     # https://stackoverflow.com/a/5072031/4723940
     # some Deleted Accounts do not have first_name
     if user_id == 1263617196:
-        await event.edit("Sorry, Not Goin To Clone @keinshin He Is My Dev!!")
+        await event.edit("Sorry, Not Goin To Clone @King_of_psycho He Is My Dev!!")
         await asyncio.sleep(3)
         return
     if first_name is not None:
