@@ -15,10 +15,8 @@
 
 
 """Thanks To 
-@Midhun_xD
-@keinshin
-@Shivam_Patel
-@NOOBIzBack
+@king_of_psycho
+@hopepsycho
 """
 
 
@@ -245,7 +243,7 @@ async def inline_handler(lightning):
                 [Button.url("Support Group🥺", "https://t.me/kunjappansupport")],
                 [Button.url("Help Article🤓", "https://app.gitbook.com/@poxsisofficial/s/help/")],
                 [Button.url("Get Updates😅",
-                    "https://t.me/black_lightning_channel"
+                    "https://t.me/kunjappansupportez"
                     )
                 ], 
             ],
@@ -592,7 +590,7 @@ async def lmaao(lightning):
                 [Button.url("Support Group🥺", "https://t.me/kunjappansupport")],
                 [Button.url("Help Article🤓", "https://app.gitbook.com/@poxsisofficial/s/help/")],
                 [Button.url("Get Updates😅",
-                    "https://t.me/lightning_support_group" ,
+                    "https://t.me/kunjappansupportez" ,
                     )
                 ], 
             ]
