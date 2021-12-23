@@ -22,7 +22,7 @@ from . import *
 #### Variables ####
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "𝐤𝐮𝐧𝐣𝐚𝐩𝐩𝐚𝐧 ɪs ᴏɴʟɪɴᴇ "
-ALIVE_MSG = f"This is {DEFAULTUSER}'s 𝐁𝐥𝐚𝐜𝐤-𝐋𝐢𝐠𝐡𝐭𝐧𝐢𝐧𝐠 𝐔𝐬𝐞𝐫𝐛𝐨𝐭"
+ALIVE_MSG = f"This is {DEFAULTUSER}'s 𝐁𝐥𝐚𝐜𝐤 𝐔𝐬𝐞𝐫𝐛𝐨𝐭"
 
 ALIVE_PIC = Config.ALIVE_PHOTTO
 
