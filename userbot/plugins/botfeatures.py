@@ -101,6 +101,6 @@ async def _(event):
         return
     chat_id = event.chat_id
     await event.client.send_message("missrose_bot", "/connect {}".format(chat_id))
-    await event.edit("[Connected](https://t.me/missrose_bot)")
+    await event.edit("[Connected](https://t.me/kunjappanpachubot)")
     await asyncio.sleep(3)
     await event.delete()
