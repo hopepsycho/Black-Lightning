@@ -12,30 +12,30 @@ ALIVE_MSG = Config.ALIVE_MSG or "✮ MY BOT IS RUNNING SUCCESFULLY ✮"
 EMOJI = Config.CUSTOM_ALIVE_EMOJI or "  ✥ "
 
 # 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "𝔅𝔩𝔞𝔠𝔨 𝔲𝔰𝔢𝔯𝔟𝔬𝔱"
 ALIVE_PHOTTO = os.environ.get("ALIVE_PHOTTO", None)
 
 # Thanks to Sipak bro and Raganork..
-# animation Idea by @NOOB_GUY_OP (Sipakisking)
-# Made by @hellboi_atul ....and thanks to @Crackexy for the logos...
+# animation Idea by @hopepsycho (Sipakisking)
+# Made by @king_of_psycho ....and thanks to @hopepsycho for the logos...
 # Kang with credits else gay...
 # alive.py for DC(DARK COBRA)
 global ghanti
 ghanti = borg.uid
 edit_time = 5
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/63abc60224dc567e3d441.jpg"
-file2 = "https://telegra.ph/file/daab59e1648754652576b.jpg"
-file3 = "https://telegra.ph/file/181bac8d3ad0c505306af.jpg"
-file4 = "https://telegra.ph/file/181bac8d3ad0c505306af.jpg"
+file1 = "https://telegra.ph/file/cfc422395273551a0b148.jpg"
+file2 = "https://telegra.ph/file/11b72dc7b0c1483f4986e.jpg"
+file3 = "https://telegra.ph/file/11b72dc7b0c1483f4986e.jpg"
+file4 = "https://telegra.ph/file/11b72dc7b0c1483f4986e.jpg"
 """ =======================CONSTANTS====================== """
-pm_caption = "** 𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤 𝙸𝚂 🅾🅽🅻🅸🅽🅴**\n\n"
+pm_caption = "** 𝔅𝔩𝔞𝔠𝔨 𝔲𝔰𝔢𝔯𝔟𝔬𝔱 𝙸𝚂 🅾🅽🅻🅸🅽🅴**\n\n"
 
 pm_caption += "✘ About My System ✘\n\n"
 pm_caption += "➾ **`ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ`** ☞ 1.17.5\n"
-pm_caption += "➾ **`ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ`** ☞ [ᴊᴏɪɴ](https://t.me/blacklightningot)\n"
-pm_caption += "➾ **`ʟɪᴄᴇɴꜱᴇ`**  ☞ [𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤](https://github.com/KeinShin)\n"
-pm_caption += "➾ **`ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ`** ☞ [𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤](https://github.com/KeinShin/Black-Lightning)\n\n"
+pm_caption += "➾ **`ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ`** ☞ [ᴊᴏɪɴ](https://t.me/kunjappansupportez)\n"
+pm_caption += "➾ **`ʟɪᴄᴇɴꜱᴇ`**  ☞ [𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤](https://github.com/hopepsycho)\n"
+pm_caption += "➾ **`ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ`** ☞ [𝔅𝔩𝔞𝔠𝔨 𝔏𝔦𝔤𝔥𝔱𝔫𝔦𝔫𝔤](https://github.com/hopepsycho/Black-userbot)\n\n"
 pm_caption += "➾ **Spammer Go Away Im His Assitant"
 pm_caption += f"➾ **ᴍʏ ᴍᴀsᴛᴇʀ** ☞ [{DEFAULTUSER}](tg://user?id={ghanti})\n"
 
