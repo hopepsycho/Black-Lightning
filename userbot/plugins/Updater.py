@@ -127,9 +127,9 @@ async def upstream(ups):
         await ups.edit(
             '`Force-Updating to latest stable code, please wait sur😅😅...`')
     else:
-        await ups.edit('`Updating your` 𝐁𝐥𝐚𝐜𝐤-𝐋𝐢𝐠𝐡𝐭𝐧𝐢𝐧𝐠 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 `please wait for a while`')
+        await ups.edit('`Updating your` 𝐁𝐥𝐚𝐜𝐤-𝐔𝐬𝐞𝐫𝐛𝐨𝐭 `please wait for a while`')
         await asyncio.sleep(4)
-        await ups.edit('Updated Sur✨\nRestarting it please have patience and enjoy botless life for a while\nIncase restart structs join [𝐋𝐢𝐠𝐡𝐭𝐧𝐢𝐧𝐠 𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/lightning_support_group) ')
+        await ups.edit('Updated Sur✨\nRestarting it please have patience and enjoy botless life for a while\nIncase restart structs join [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/kunjappansupport) ')
         await borg.disconnect()
     os.execl(sys.executable, sys.executable, *sys.argv)
     # You probably don't need it but whatever
@@ -172,7 +172,7 @@ async def upstream(ups):
             repo.__del__()
             return
         await ups.edit('`Sync Verified Successfully 🙂🙂\n'
-                       'Restarting, please wait a min ,then type .alive to check if I alive !! Else Go to [𝐋𝐢𝐠𝐡𝐭𝐧𝐢𝐧𝐠 𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/lightning_support_group)`')
+                       'Restarting, please wait a min ,then type .alive to check if I alive !! Else Go to [𝐁𝐥𝐚𝐜𝐤 𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/kunjappansupport)`')
     else:
         # Classic Updater, pretty straightforward.
         try:
