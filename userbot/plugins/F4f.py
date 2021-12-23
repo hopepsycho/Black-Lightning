@@ -7,14 +7,14 @@ import random
 from userbot import ALIVE_NAME
 from userbot.utils import lightning_cmd
 #--Constants--#
-sed1 = "https://telegra.ph/file/9102e0041cf2bacffc4a8.mp4"
+sed1 = "https://telegra.ph/file/c37f186aa05cc07ab7b89.mp4"
 sed2 = "https://telegra.ph/file/2034b44685abbc5d8db4d.mp4"
 sed3 = "https://telegra.ph/file/c7f8f00729fc4147ad8d6.mp4"
 sed4 = "https://telegra.ph/file/f5c968e0dd5bf01748678.mp4"
 sed5 = "https://telegra.ph/file/026f3b4776af1f3277614.mp4"
 sed6 = "https://telegra.ph/file/3593c809b7dcc17090b6c.mp4"
 sed = "https://telegra.ph/file/f29468b5fba0ad146bae2.mp4"
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "вℓα¢к ℓιgнтηιηg"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "вℓα¢к 𝚞𝚜𝚎𝚛𝚋𝚘𝚝"
 remd = bot.me.id
 cap = f"Yeah My Friend This Suprise is for you\nThanks for Being my Friend, I am Blessed With a friend like you✨\n                           ~[{DEFAULTUSER}](tg://user?id={remd})"
 #--over--#
