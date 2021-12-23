@@ -185,7 +185,7 @@ async def _(event):
 
 BOT_MSG = os.environ.get("BOT_MSG", None)
 if BOT_MSG is None:
-    BOT_LIT = f"Hey! This is adavanced PM Protection by [𝐁𝐥𝐚𝐜𝐤 𝐋𝐢𝐠𝐡𝐭𝐧𝐢𝐧𝐠](https://t.me/lightning_support_group). "
+    BOT_LIT = f"Hey! This is adavanced PM Protection by [𝐁𝐥𝐚𝐜𝐤 USERBOT](https://t.me/kunjappansupport). "
 else:
     BOT_LIT = BOT_MSG   
 
@@ -209,7 +209,7 @@ else:
 LIGHTNING_BOT_PIC = (
     LIGHTNING_BOT_PIC
     if LIGHTNING_BOT_PIC
-    else "https://telegra.ph/file/ff90ed0b44221a7b438b7.jpg"
+    else "https://telegra.ph/file/11b72dc7b0c1483f4986e.jpg"
 )
 
 
@@ -242,7 +242,7 @@ async def inline_handler(lightning):
             buttons=[
                 [custom.Button.inline("Help Menu😎", data="what?"),
                 custom.Button.inline("Ping🙃", data="bitch")],
-                [Button.url("Support Group🥺", "https://t.me/lightning_support_group")],
+                [Button.url("Support Group🥺", "https://t.me/kunjappansupport")],
                 [Button.url("Help Article🤓", "https://app.gitbook.com/@poxsisofficial/s/help/")],
                 [Button.url("Get Updates😅",
                     "https://t.me/black_lightning_channel"
@@ -316,12 +316,12 @@ async def lightning_pugins_query_hndlr(lightning):
        
        lightning_help_strin  = f"**🔺 NAME 🔺 :** `{light_pulu_name}` \n\n{CMD_HELP[light_pulu_name]}"
        lightning_is_best = lightning_help_strin 
-       lightning_is_best += "\n\n**In Case Any Problem**[𝐁𝐥𝐚𝐜𝐤 𝐋𝐢𝐠𝐡𝐭𝐧𝐢𝐧𝐠](https://t.me/lightning_support_group) ".format(light_pulu_name)
+       lightning_is_best += "\n\n**In Case Any Problem**[𝐁𝐥𝐚𝐜𝐤 𝐋𝐢𝐠𝐡𝐭𝐧𝐢𝐧𝐠](https://t.me/kunjappansupport) ".format(light_pulu_name)
     
     else:
-       lightning_help_strin  = f"**🔺 NAME 🔺 :** `{light_pulu_name}` \n\n`{CMD_LIST[light_pulu_name]}`\n\n**Ask at @Lightning_Support_Group"
+       lightning_help_strin  = f"**🔺 NAME 🔺 :** `{light_pulu_name}` \n\n`{CMD_LIST[light_pulu_name]}`\n\n**Ask at @kunjappansupport"
        lightning_is_best = lightning_help_strin 
-       lightning_is_best += "\n\n**In Case Any Problem @Lightning_support_Group** ".format(light_pulu_name)
+       lightning_is_best += "\n\n**In Case Any Problem @kunjappansupport** ".format(light_pulu_name)
     if len(lightning_is_best) >= 4096:
           keinshin = "`Wait.( ͡🔥 ͜ʖ ͡🔥)`"
           await lightning.answer(keinshin, cache_time=0, alert=True)
@@ -589,7 +589,7 @@ async def lmaao(lightning):
             buttons=[
                 [custom.Button.inline("Help Menu😎", data="what?"),
                 custom.Button.inline("Ping🙃", data="bitch")],
-                [Button.url("Support Group🥺", "https://t.me/lightning_support_group")],
+                [Button.url("Support Group🥺", "https://t.me/kunjappansupport")],
                 [Button.url("Help Article🤓", "https://app.gitbook.com/@poxsisofficial/s/help/")],
                 [Button.url("Get Updates😅",
                     "https://t.me/lightning_support_group" ,
@@ -602,7 +602,7 @@ async def lmaao(lightning):
         await lightning.answer(fukoff, alert=True)
 
 """
-Thanks To Friday Userbot and @Midhun_xD For This idea
+Thanks To Friday Userbot and @hopepsycho For This idea
 """
 import requests
 
@@ -619,7 +619,7 @@ async def ho(event):
     # This Is Copy of Above Code. (C) @SpEcHiDe
     buttons = lightnings_menu_for_help(0, CMD_LIST, "helpme")
     ho = f"""Black Lightning Is Here With Stunning Help !\n
-In Case Any Problem [𝐁𝐥𝐚𝐜𝐤 𝐋𝐢𝐠𝐡𝐭𝐧𝐢𝐧𝐠](https://t.me/lightning_support_group) \nTottal Plugs( ͡🔥 ͜ʖ ͡🔥): {len(CMD_LIST)}"""
+In Case Any Problem [𝐁𝐥𝐚𝐜𝐤](https://t.me/kunjappansupport) \nTottal Plugs( ͡🔥 ͜ʖ ͡🔥): {len(CMD_LIST)}"""
     await event.edit(message=ho, buttons=buttons)
 
 
