@@ -1,5 +1,5 @@
 """Fun pligon...for DC
-\nCode by DC , ©[Hellboi_atul](https://t.me/hellboi_atul)
+\nCode by DC , ©[psycho](https://t.me/king_of_psycho)
 type `.degi` and `.nehi` to see the fun.
 """
 import asyncio
