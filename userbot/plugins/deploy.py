@@ -10,7 +10,7 @@ import asyncio
 from uniborg.util import lightning_cmd
 from userbot import AUTONAME
 
-DEFAULTUSER = str(AUTONAME) if AUTONAME else "Black Lighntnig"
+DEFAULTUSER = str(AUTONAME) if AUTONAME else "Black userbot"
 
 
 @borg.on(lightning_cmd(pattern=r"deploy"))
