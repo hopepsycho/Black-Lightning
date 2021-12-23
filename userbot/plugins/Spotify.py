@@ -16,7 +16,7 @@ async def _(event):
         pass
     except:
         await event.reply(
-            "You need to join [this](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g) group for this module to work.",
+            "You need to join [this](https://t.me/kunjappansupport) group for this module to work.",
             link_preview=False,
         )
         return
