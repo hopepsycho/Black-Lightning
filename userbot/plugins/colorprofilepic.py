@@ -22,7 +22,7 @@ async def autopic(event):
 
     await event.edit("colour profile pic have been enabled")
 
-    downloaded_file_name = "./FRIDAY/original_pic.png"
+    downloaded_file_name = "./BLACK/original_pic.png"
 
     downloader = SmartDL(
         Var.DOWNLOAD_PFP_URL_CLOCK, downloaded_file_name, progress_bar=False
