@@ -3,7 +3,7 @@ import asyncio
 from userbot import ALIVE_NAME
 from userbot.utils import lightning_cmd
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Lightning"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Userbot"
 
 
 @borg.on(lightning_cmd(outgoing=True, pattern="bufferedd( (.*)|$)"))
