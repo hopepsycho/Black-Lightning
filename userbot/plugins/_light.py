@@ -42,7 +42,7 @@ async def cmd_list(event):
                 await asyncio.sleep(2)
                 await event.edit(input_str + "  ☹️ is not a valid plugin😞😞!")
         else:
-            light_help_strin = """**Black Lightning Heres With The Detailed Help For CMDs** 😉😉 !\n If Faced Any Bug Please Give The Feed Back at [Lightning Support](https://t.me/lightning_support_group):"""
+            light_help_strin = """**Black Userbot Heres With The Detailed Help For CMDs** 😉😉 !\n If Faced Any Bug Please Give The Feed Back at [Kunjappan Support](https://t.me/kunjappansupport):"""
             results = await bot.inline_query(  # pylint:disable=E0602
             lightningusername, light_help_strin
             )
