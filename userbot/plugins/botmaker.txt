@@ -4,7 +4,7 @@
 from var import Var
 from userbot.utils import lightning_cmd, bot
 from userbot import ALIVE_NAME
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "вℓα¢к ℓιgнтηιηg"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "вℓα¢к 𝔲𝔰𝔢𝔯𝔟𝔬𝔱"
 picture = "resources.botpic.jpg"
 @bot.on(lightning_cmd(pattern="devbut")) 
 
@@ -29,7 +29,7 @@ async def _(event):
    await conv.get_response()
    await conv.send_message(name)
    await conv.get_reponse()
-   await conv.send_message("Heyy there🤙\nThis Black Lightning Userbot🇮🇳\nI am here to provide Assistant service to {DEFAULTUSER}😎\nYou can Message me to contact my Master😉")
+   await conv.send_message("Heyy there🤙\nThis Black Userbot🇮🇳\nI am here to provide Assistant service to {DEFAULTUSER}😎\nYou can Message me to contact my Master😉")
    await conv.get_reponse()
    await conv.send_message("/setabouttext")
    await conv.get_reponse()
